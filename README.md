@@ -3,16 +3,16 @@ A Virtual Classroom System
 
 ## Key points:
 1. Virtual Classroom Webpage
-  a. Login/Signup Page for Faculty and Students
-  b. Dashboard
-  c. Departments
-  d. Categories
-  e. Subjects
-  f. Students in my class
-  g. Examinations
-  h. Add Question
-  i. Notices
-  j. Results
+  * Login/Signup Page for Faculty and Students
+  * Dashboard
+  * Departments
+  * Categories
+  * Subjects
+  * Students in my class
+  * Examinations
+  * Add Question
+  * Notices
+  * Results
   
 2. Report File Containg SRS and Various UML Diagrams
 
